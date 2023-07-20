@@ -1,0 +1,46 @@
+{
+  "title": "Event or Meeting Registration",
+  "header": {
+    "text": "Event or Meeting Registration",
+    "image": "src/assets/logo.pic.jpg"
+  },
+  "eventInfo": {
+    "title": "Event or meeting information",
+    "description": "<h2>Dear esteemed guests,</h2><p>We cordially invite you to the upcoming Web3 Conference, where we will explore the current trends and prospects of Web3, the next evolutionary stage of blockchain technology.</p><p>In this era of transformative change, Web3 has become the focal point of global technology and finance. We will gather industry experts and leaders to share their insights and practical experiences in the Web3 domain. The conference will encompass discussions on the following key themes:</p><ul><li>Current Status and Trends of Web3: In-depth analysis of the current development status and future trends of Web3 technology.</li><li>Blockchain Technology and Decentralized Applications: Exploring how blockchain technology is driving innovation and use cases for decentralized applications.</li><li>Cryptocurrencies and Digital Assets: Examining the applications and investment opportunities in cryptocurrencies and digital assets in the Web3 era.</li><li>Smart Contracts and DeFi: Introducing the transformative impact of smart contracts and decentralized finance (DeFi) on the financial industry.</li><li>NFTs and Digital Art: Discovering the influence of Non-Fungible Tokens (NFTs) on the digital art and cultural sectors.</li><li>The Societal Impact of Web3: Discussing the profound societal, political, and economic impact of Web3 technology.</li></ul><p>We sincerely invite you to participate in this gathering of wisdom, where you will have the opportunity to connect with global industry elites, expand your network, and gain insights into the cutting-edge developments in Web3 technology.</p><p>Please confirm your attendance as soon as possible. We look forward to meeting you at the conference!</p><p>With warmest regards,</p><p>The Conference Organizing Committee</p>",
+    "time": "20/7/2023",
+    "location": "Hong Kong"
+  },
+  "form": {
+    "title": "Registration form",
+    "fields": [
+      {
+        "label": "name：",
+        "type": "text",
+        "name": "name",
+        "required": true
+      },
+      {
+        "label": "email：",
+        "type": "email",
+        "name": "email",
+        "required": true
+      },
+      {
+        "label": "phone：",
+        "type": "tel",
+        "name": "phone",
+        "required": true
+      },
+      {
+        "label": "Number of participants：",
+        "type": "number",
+        "name": "attendees",
+        "required": true
+      }
+    ]
+  },
+  "footer": {
+    "contact": "Powered by 4EVERLAND  ",
+    "footerLink": "https://www.4everland.org/"
+  }
+}
