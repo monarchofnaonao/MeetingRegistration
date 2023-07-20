@@ -2,7 +2,7 @@
   "title": "Event or Meeting Registration",
   "header": {
     "text": "Event or Meeting Registration",
-    "image": "src/assets/logo.pic.jpg"
+    "image": "logo.pic.jpg"
   },
   "eventInfo": {
     "title": "Event or meeting information",
